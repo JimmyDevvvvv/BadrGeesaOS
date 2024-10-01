@@ -1,5 +1,5 @@
 Prerequisites:
-To build and run PeachOS, you will need a Linux environment. You can use native Linux, a virtual machine, or the Windows Subsystem for Linux (WSL) to set it up.
+To build and run BadrGeesa, you will need a Linux environment. You can use native Linux, a virtual machine, or the Windows Subsystem for Linux (WSL) to set it up.
 
 Ensure you have the following tools installed in your Linux environment:
 
